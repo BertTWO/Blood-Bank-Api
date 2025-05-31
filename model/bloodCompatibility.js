@@ -1,4 +1,4 @@
-// utils/bloodCompatibility.js
+
 const bloodCompatibility = {
   "O-": ["O-"],
   "O+": ["O-", "O+"],
